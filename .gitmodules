@@ -1,0 +1,3 @@
+[submodule "Osg-Play/Osg_Data"]
+	path = Osg-Play/Osg_Data
+	url = https://github.com/xuhang156/Osg_Data.git
